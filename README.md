@@ -1,2 +1,3 @@
-# Wasel
-A smart transportation planning platform that helps users find the best way to travel between Egyptian governorates by comparing cost, travel time, and route simplicity, offering clear, practical recommendations based on real local options before the journey begins.
+# Swaply
+A skill-exchange platform where people trade skills instead of money.
+The core idea is fair and balanced exchange—each person offers a skill in return for learning another, so both sides benefit equally without anyone feeling they lost.
